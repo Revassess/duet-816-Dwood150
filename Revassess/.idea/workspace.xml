@@ -133,6 +133,7 @@
       <workItem from="1597088621720" duration="3535000" />
       <workItem from="1597092235644" duration="438000" />
       <workItem from="1597092877829" duration="347000" />
+      <workItem from="1597096441364" duration="125000" />
     </task>
     <task id="LOCAL-00001" summary="tier1">
       <created>1597092570910</created>
@@ -179,6 +180,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="266" y="183" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1597089730684" />
+    <state x="409" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597096498486">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="409" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040@0.0.2560.1040" timestamp="1597096498486" />
     <state x="427" y="275" key="FileChooserDialogImpl" timestamp="1597088528099">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
