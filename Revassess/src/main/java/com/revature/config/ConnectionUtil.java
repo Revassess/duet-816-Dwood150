@@ -24,7 +24,7 @@ public class ConnectionUtil {
 	// name of the created stored procedure in tier 3
 	public static final String TIER_3_PROCEDURE_NAME = "";
 	// name of the created sequence in tier 3
-	public static final String TIER_3_SEQUENCE_NAME = "";
+	public static final String TIER_3_SEQUENCE_NAME = "sequence";
 
 	// implement this method to connect to the db and return the connection object
 	public Connection connect(){
@@ -48,5 +48,17 @@ public class ConnectionUtil {
 			cu = new ConnectionUtil();
 		}
 		return cu;
+	}
+
+	public void sequence(){
+		int i=6;
+		while(i<=100){
+			System.out.println(i + ", ");
+			i+=3;
+		}
+	}
+
+	public boolean createTable() {
+
 	}
 }

@@ -22,13 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f654eac-4a7c-4bad-8787-1f5be33484bb" name="Default Changelist" comment="tier1">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Revassess.iml" afterDir="false" />
+    <list default="true" id="8f654eac-4a7c-4bad-8787-1f5be33484bb" name="Default Changelist" comment="tier3456">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" afterDir="false" />
     </list>
@@ -75,6 +69,19 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="JUnit.Answer3Tests">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Answer1Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Revassess" />
       <extension name="coverage">
@@ -141,7 +148,7 @@
       <workItem from="1597088621720" duration="3535000" />
       <workItem from="1597092235644" duration="438000" />
       <workItem from="1597092877829" duration="719000" />
-      <workItem from="1597093920311" duration="347000" />
+      <workItem from="1597093920311" duration="2399000" />
     </task>
     <task id="LOCAL-00001" summary="tier1">
       <created>1597092570910</created>
@@ -157,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597093151692</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tier3456">
+      <created>1597094356286</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597094356286</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +191,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tier1" />
-    <option name="LAST_COMMIT_MESSAGE" value="tier1" />
+    <MESSAGE value="tier3456" />
+    <option name="LAST_COMMIT_MESSAGE" value="tier3456" />
   </component>
   <component name="WindowStateProjectService">
     <state x="200" y="371" key="#SQL_Dialects" timestamp="1597090030848">
@@ -212,5 +227,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="253" y="129" key="Maven.ArtifactSearchDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1597092288707" />
+    <state x="232" y="256" key="Vcs.Push.Dialog.v2" timestamp="1597094358408">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="232" y="256" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1597094358408" />
   </component>
 </project>
