@@ -22,8 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f654eac-4a7c-4bad-8787-1f5be33484bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/tier1/SumOverArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/tier1/SumOverArray.java" afterDir="false" />
+    <list default="true" id="8f654eac-4a7c-4bad-8787-1f5be33484bb" name="Default Changelist" comment="tier1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -143,8 +144,16 @@
       <workItem from="1597088147307" duration="15000" />
       <workItem from="1597088184291" duration="416000" />
       <workItem from="1597088621720" duration="3535000" />
-      <workItem from="1597092235644" duration="297000" />
+      <workItem from="1597092235644" duration="438000" />
     </task>
+    <task id="LOCAL-00001" summary="tier1">
+      <created>1597092570910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597092570910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +171,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tier1" />
+    <option name="LAST_COMMIT_MESSAGE" value="tier1" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="200" y="371" key="#SQL_Dialects" timestamp="1597090030848">
       <screen x="0" y="0" width="2560" height="1040" />
@@ -175,5 +188,25 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="427" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1597088528099" />
+    <state width="617" height="279" key="GridCell.Tab.0.bottom" timestamp="1597092673200">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="617" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1597092673200" />
+    <state width="617" height="279" key="GridCell.Tab.0.center" timestamp="1597092673200">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="617" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1597092673200" />
+    <state width="617" height="279" key="GridCell.Tab.0.left" timestamp="1597092673200">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="617" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1597092673200" />
+    <state width="617" height="279" key="GridCell.Tab.0.right" timestamp="1597092673200">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="617" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1597092673200" />
+    <state x="253" y="129" key="Maven.ArtifactSearchDialog" timestamp="1597092288707">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="253" y="129" key="Maven.ArtifactSearchDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1597092288707" />
   </component>
 </project>
