@@ -27,8 +27,6 @@ public class User {
     @Column(name = "role_id")
     private int roleId;
 
-
-
     public User() {
     }
 

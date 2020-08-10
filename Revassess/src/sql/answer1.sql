@@ -1,0 +1,1 @@
+Select * From APP_USER where role_id=3
