@@ -1,7 +1,7 @@
 
-b
-java:S2095D"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(˜Š¾ì
-7
-java:S1643F"Use a StringBuilder instead.(µŽÕŒþÿÿÿÿ
-P
-java:S1118":Add a private constructor to hide the implicit public one.(ñÞÜ¾
+`
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(˜Š¾ì
+5
+java:S1643"Use a StringBuilder instead.(µŽÕŒþÿÿÿÿ
+N
+java:S1118":Add a private constructor to hide the implicit public one.(ñÞÜ¾

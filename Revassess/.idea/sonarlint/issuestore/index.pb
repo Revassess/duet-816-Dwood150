@@ -13,3 +13,11 @@ b
 2src/test/java/com/revature/tier2/Answer1Tests.java,b\a\ba63351b0c323626adf2e417283f987961080380
 h
 8src/test/java/com/revature/config/TestConfiguration.java,5\a\5a14fb44c2a74e0798d4878f16636811e92d8adf
+h
+8src/main/java/com/revature/tier2/model/UserStudySet.java,b\5\b510cda72a446af13d004e755cff28949c1e5edd
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+C
+src/sql/answer2.sql,5\1\51a6acb33f27488e8c5c04621ff1d68f8b00575d
+C
+src/sql/answer3.sql,6\7\6763233995aaf7230b06acc17de82e1f8b5de9d5
