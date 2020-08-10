@@ -22,7 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f654eac-4a7c-4bad-8787-1f5be33484bb" name="Default Changelist" comment="tier1" />
+    <list default="true" id="8f654eac-4a7c-4bad-8787-1f5be33484bb" name="Default Changelist" comment="tier1">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revassess.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +62,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -65,17 +75,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected="JUnit.Answer3Tests">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Answer1Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Revassess" />
       <extension name="coverage">
@@ -142,6 +141,7 @@
       <workItem from="1597088621720" duration="3535000" />
       <workItem from="1597092235644" duration="438000" />
       <workItem from="1597092877829" duration="719000" />
+      <workItem from="1597093920311" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="tier1">
       <created>1597092570910</created>
@@ -184,10 +184,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="200" y="371" key="#SQL_Dialects/0.0.2560.1040@0.0.2560.1040" timestamp="1597090030848" />
-    <state x="266" y="183" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597089730684">
+    <state x="120" y="134" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597094268862">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="266" y="183" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1597089730684" />
+    <state x="120" y="134" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1597094268862" />
     <state x="427" y="275" key="FileChooserDialogImpl" timestamp="1597088528099">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
