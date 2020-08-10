@@ -1,1 +1,1 @@
-Select * from app_user
+Select * from app_user, study_set where app_user.role_id=5 and study_set.owner_id=app_user.user_id
