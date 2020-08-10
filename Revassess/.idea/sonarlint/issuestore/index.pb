@@ -11,3 +11,5 @@ b
 2src/main/java/com/revature/tier1/SumOverArray.java,3\7\37349f5fc6b9f8fe23a1e74e8f13ec2b5ef5dda8
 d
 4src/main/java/com/revature/tier1/CompareStrings.java,1\f\1f612e7ef4932e5264c3230507aa605d5a68c768
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
